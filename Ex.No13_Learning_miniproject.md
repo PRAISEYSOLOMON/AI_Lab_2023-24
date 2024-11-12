@@ -1,5 +1,5 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
+### DATE: 24.10.2024                                                                           
 ### REGISTER NUMBER : 212222040117
 ### AIM: 
 To write a program to train the model to predict the breast cancer.
