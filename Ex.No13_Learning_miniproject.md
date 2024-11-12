@@ -66,6 +66,8 @@ print("Accuracy of the Logistic Regression Model is: ", logreg_acc)
 
 ![image](https://github.com/user-attachments/assets/96a858ca-02d9-4a24-8c20-cbc8758a9748)
 
+![image](https://github.com/user-attachments/assets/eea546b5-d57f-4c5b-9127-139f88fd3205)
+
 ![image](https://github.com/user-attachments/assets/6044d1d5-9a77-4832-91d4-95b25d085e17)
 
 ![image](https://github.com/user-attachments/assets/9b30c68f-65c5-4b37-a40d-24d735206108)
